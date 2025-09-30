@@ -125,5 +125,11 @@ Example (in Telugu):
 
 6.	Blockchain-based Market Linkage for Fair Pricing.
 
+## 📸 Screenshots
+<https://github.com/Lokesh-26402/Crop-Expert/blob/main/Screenshot%202025-09-30%20102320.png>
+
+Rythu Mitra Home Dashboard
+
+---
 
 
